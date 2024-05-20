@@ -2,12 +2,12 @@
 
 The Book Management API is a RESTful API built using NestJS, a progressive Node.js framework, and Prisma as the ORM for interacting with a SQL database. This API provides endpoints for performing CRUD (Create, Read, Update, Delete) operations on books.
 
-## Requirements
+## Tech Stack used
 
 - Node.js (v14 or higher)
 - Nest.js
 - Prisma
-- SQLite (or any other SQL database of your choice)
+- Postgress
 
 ## Installation
 
@@ -114,10 +114,3 @@ Content-Type: application/json
 - `@nestjs/platform-express`: Provides a wrapper for the Express.js server.
 - `@prisma/client`: Prisma ORM client for interacting with the database.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in the `CONTRIBUTING.md` file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
