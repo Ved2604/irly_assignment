@@ -17,19 +17,13 @@ The Book Management API is a RESTful API built using NestJS, a progressive Node.
 <code class="language-bash">git clone https://github.com/Ved2604/irly_assignment</code>
 </pre>
 
-2. Navigate to the project directory:
-
-<pre>
-<code class="language-bash">cd book-management-api</code>
-</pre>
-
-3. Install dependencies:
+2. Install dependencies:
 
 <pre>
 <code class="language-bash">npm install</code>
 </pre>
 
-4. Set up the database and apply migrations:
+3. Set up the database and apply migrations:
 
 <pre>
 <code class="language-bash">npx prisma migrate dev</code>
