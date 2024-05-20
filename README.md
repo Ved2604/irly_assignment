@@ -1,6 +1,8 @@
 # Book Management API
 
-The Book Management API is a RESTful API built using NestJS, a progressive Node.js framework, and Prisma as the ORM for interacting with a SQL database. This API provides endpoints for performing CRUD (Create, Read, Update, Delete) operations on books.
+The Book Management API is a RESTful API built using NestJS, a progressive Node.js framework, and Prisma as the ORM for interacting with a SQL database. This API provides endpoints for performing CRUD (Create, Read, Update, Delete) operations on books. 
+
+Deployment link <a href="https://irly-assignment.onrender.com/books"> Live link </a>
 
 ## Tech Stack used
 
