@@ -14,7 +14,7 @@ The Book Management API is a RESTful API built using NestJS, a progressive Node.
 1. Clone the repository:
 
 <pre>
-<code class="language-bash">git clone https://github.com/your-repo/book-management-api.git</code>
+<code class="language-bash">git clone https://github.com/Ved2604/irly_assignment</code>
 </pre>
 
 2. Navigate to the project directory:
