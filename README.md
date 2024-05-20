@@ -75,16 +75,7 @@ Content-Type: application/json
 <pre>
 <code class="language-bash">GET /books/1</code>
 </pre>
-### Create a new Book 
-<pre>
-<code class="language-bash">PUT /books
-Content-Type: application/json
 
-{
-  "title": "The Jungle Book"
-  "summary": "A book about a baby that grew up in wild with wolves."
-}</code>
-</pre>
 ### Update a Book
 
 <pre>
